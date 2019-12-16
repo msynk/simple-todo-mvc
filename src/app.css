@@ -1,0 +1,23 @@
+.todo-list {
+    height: 200px;
+    overflow: auto;
+}
+
+.todo-li {
+    padding: 5px;
+    color: black;
+    width: 200px;
+}
+
+.todo-li.completed {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.todo-title {
+    font-size: 20px;
+}
+
+.todo-btn-complete {
+    float: right;
+}

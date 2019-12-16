@@ -1,1 +1,1 @@
-"# simple-todo-mvc" 
+Simple Todo MVC app.
